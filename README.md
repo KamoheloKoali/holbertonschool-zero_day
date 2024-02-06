@@ -1,1 +1,1 @@
-My first readme
+Fisrt week at Holberton School Lesotho
